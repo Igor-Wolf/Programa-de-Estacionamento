@@ -8,11 +8,11 @@ decimal preco = 0, valorhora =0, opcao =0, horas = 0;
 bool continuar = true;
 List<string> veiculos = new List<string>();
 string auxiliar = "", removido=" ";
-
+List<string> recibos = new List<string>();
 //-------------------------------------------------FUNÇÕES AUXILIARES
 void limpatela(){
 
-    Console.WriteLine("Pressione uma tecla para continuar...");
+    Console.WriteLine("\nPressione uma tecla para continuar...");
     auxiliar=Console.ReadLine();
     Console.Clear();
 
@@ -23,6 +23,19 @@ void linha(){
     Console.WriteLine("---------------------------------------------------------------------------------------------------------------");
 }
 
+void recibo(){
+    recibos.Add("----------------------------------------------------------------------------------------------");
+    recibos.Add("                                 RECIBO DE ESTACIONAMENTO");
+    recibos.Add("----------------------------------------------------------------------------------------------\n");
+    recibos.Add($"O veículo {removido} foi removido\nO preço total foi de: R$ {(horas * valorhora + preco).ToString("N2")}\n\n");
+    DateTime data = DateTime.Now;
+    recibos.Add($"Operação realizada no dia {data} {TimeZoneInfo.Local.DisplayName}");
+    File.AppendAllLines("recibo.txt", recibos);
+
+    Console.WriteLine("RECIBO IMPRESSO!");
+    limpatela();
+    recibos.Clear();
+}
 
 //-------------------------------------------------CABEÇALHOS
 
@@ -74,15 +87,21 @@ void menu2(){
     veiculos.Remove(removido);
     Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado");
     horas = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine($"O veículo {removido} foi removido e o preço total foi de: R$ {horas * valorhora + preco}");
     limpatela();
+    cabecalho2();
+    Console.WriteLine($"O veículo {removido} foi removido\nO preço total foi de: R$ {(horas * valorhora + preco).ToString("N2")}\n\n");
+    DateTime data = DateTime.Now;
+    Console.WriteLine($"Operação realizada no dia {data} {TimeZoneInfo.Local.DisplayName}");
+
+    limpatela();
+    recibo();
 
 }
 
 void menu3(){
 
     cabecalho3();
-    Console.WriteLine("Os veículos estacionados são:");
+    Console.WriteLine("Os veículos estacionados são:\n");
     foreach (string car in veiculos){
 
         Console.WriteLine(car);

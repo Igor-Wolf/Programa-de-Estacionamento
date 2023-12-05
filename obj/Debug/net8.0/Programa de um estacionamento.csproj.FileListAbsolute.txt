@@ -12,3 +12,18 @@ C:\Users\Usuário\Desktop\git dio\C#\Programa de um estacionamento\obj\Debug\net
 C:\Users\Usuário\Desktop\git dio\C#\Programa de um estacionamento\obj\Debug\net8.0\Programa de um estacionamento.pdb
 C:\Users\Usuário\Desktop\git dio\C#\Programa de um estacionamento\obj\Debug\net8.0\Programa de um estacionamento.genruntimeconfig.cache
 C:\Users\Usuário\Desktop\git dio\C#\Programa de um estacionamento\obj\Debug\net8.0\ref\Programa de um estacionamento.dll
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\bin\Debug\net8.0\Programa de um estacionamento.exe
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\bin\Debug\net8.0\Programa de um estacionamento.deps.json
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\bin\Debug\net8.0\Programa de um estacionamento.runtimeconfig.json
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\bin\Debug\net8.0\Programa de um estacionamento.dll
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\bin\Debug\net8.0\Programa de um estacionamento.pdb
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.sourcelink.json
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.dll
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\refint\Programa de um estacionamento.dll
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.pdb
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\Programa de um estacionamento.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Nova pasta (2)\Programa-de-Estacionamento\obj\Debug\net8.0\ref\Programa de um estacionamento.dll

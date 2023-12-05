@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuário\\Desktop\\git dio\\C#\\Programa de um estacionamento\\Programa de um estacionamento.csproj": {}
+    "C:\\Users\\Usuário\\Desktop\\Nova pasta (2)\\Programa-de-Estacionamento\\Programa de um estacionamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuário\\Desktop\\git dio\\C#\\Programa de um estacionamento\\Programa de um estacionamento.csproj": {
+    "C:\\Users\\Usuário\\Desktop\\Nova pasta (2)\\Programa-de-Estacionamento\\Programa de um estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\git dio\\C#\\Programa de um estacionamento\\Programa de um estacionamento.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\Nova pasta (2)\\Programa-de-Estacionamento\\Programa de um estacionamento.csproj",
         "projectName": "Programa de um estacionamento",
-        "projectPath": "C:\\Users\\Usuário\\Desktop\\git dio\\C#\\Programa de um estacionamento\\Programa de um estacionamento.csproj",
+        "projectPath": "C:\\Users\\Usuário\\Desktop\\Nova pasta (2)\\Programa-de-Estacionamento\\Programa de um estacionamento.csproj",
         "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuário\\Desktop\\git dio\\C#\\Programa de um estacionamento\\obj\\",
+        "outputPath": "C:\\Users\\Usuário\\Desktop\\Nova pasta (2)\\Programa-de-Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
